@@ -86,7 +86,7 @@ button:hover {
   transform: translateY(400px);
 }
 
-/* the winner message is usually blank*/ 
+/*the winner message is usually blank*/ 
 .winnerMessage {
   margin: 20px;
   font-size: 0pt;
@@ -94,7 +94,7 @@ button:hover {
   opacity: 0;
 }
 
-/* if player wins, the message appears*/ 
+/*if player wins, the message appears*/ 
 .appear {
   opacity: 1;
   font-size: 20pt;
